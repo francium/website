@@ -1,7 +1,6 @@
 ---
 title: Hide YouTube's "Recommended For You" suggestions
 date: 2018-10-06T19:43:00-04:00
-draft: true
 ---
 One thing I find quite annoying with YouTube is "Recommended For You" spam in the related
 videos section. I do not sign into YouTube and use [Firefox
