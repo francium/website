@@ -3,9 +3,10 @@ title: Reading
 ---
 
 ### Now
-- Heller, *Catch-22*
-- Neal Stephenson, *Snow Crash* (audio)
-- Luis Atencio, Functional Programming in JavaScript
+- Norman, *Design of Everyday Things*
+<!-- - Heller, *Catch-22* -->
+<!-- - Neal Stephenson, *Snow Crash* (audio) -->
+<!-- - Luis Atencio, Functional Programming in JavaScript -->
 
 ### 2018
 - Foer, *Moonwalking with Einstein* [[Review](#foer-moon-walking-with-einstein)]
