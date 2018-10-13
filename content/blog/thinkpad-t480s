@@ -1,0 +1,38 @@
+---
+title: "Thinkpad T480s"
+date: 2018-10-13T00:32:36-04:00
+draft: true
+---
+
+- Wayland has blurry text, can't mix DPIs
+- With XOrg you do get tearing but can mix DPIs with xrandr
+- Everything works out of the box, except finger print reader, did not test webcam
+  (thermal)
+- 1.5 scale works really nicely for 2k monitor
+- Keyboard is amazing after using original non-retina macbook pro keyboards
+    - Very solid, satisfying typing experience, one of the best non-mechanical keyboards
+- Battery life after disabling unused IO devices, changing Thunderbolt settings in BIOS to
+  reduce wakeups and with TLP installed
+    - SD reader, webcam(s), mics, bluetooth disabled
+    - Power consumption ranges from
+        - ~2.9W with lowest brightness and totally idle, but normally above 3W (15+  hours)
+        - avg 4-5 idle reading with moderate brightness (10+ hours)
+        - 5-10 during regular use (7-8+ hours)
+- Fan is silent during regular usage, even with video playback temperate is normally less
+  than 45C with stock Linux fan control
+- Speakers are not super loud, but serviceable
+- Touchpad is a downgrade from a mac, but probably better than the average touchpad on
+  non-mac hardware
+  - Has a grainy/rubbery/siliconish/rough texture, take a bit of getting used to compared
+    to a mac's touchpad which is very smooth
+- Touchpoint is nice and with practice could be very usable
+- Fn/Ctrl can be swapped in BIOS, Function Key mode can be swapped in hardware too, as
+  well as on the fly with fn-lock
+- No media keys
+- PrintScn key is in a stupid location
+- Page up/down keys are annoying and in a stupid location, easy to press them instead of
+  arrow keys
+- can connect 2 external monitors
+- Sleep battery consumption is pretty significant, ~1%/hr lost while sleeping
+- 2k screen is very good, matte, can get quite bright (the FHD is less bright) and very
+  usable in most working conditions
