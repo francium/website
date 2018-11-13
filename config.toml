@@ -27,6 +27,12 @@ identifier             = "reading"
 url                    = "/reading/"
 
 [[menu.main]]
+name                   = "Interesting Talks"
+weight                 = 0
+identifier             = "talks"
+url                    = "/talks/"
+
+[[menu.main]]
 name                   = "Projects"
 weight                 = 0
 identifier             = "projects"
