@@ -14,6 +14,7 @@ title: Reading
 - Griffith, *Why Elm* [[Notes](/blog/book-notes-matthew-griffith-why-elm/)]
 - Hallam, *Millionaire Teacher* ★
 - McCarthy, *The Road* ★
+- McCarthy, *No Country For Old Men*
 - Scalzi, *Old Man's War* (audio) [[Review](#scalzi-old-man-s-war)]
 - Weir, *The Egg* ★ (short story)
 - deGrasse Tyson, *Astrophysics for People in a Hurry* (audio)
