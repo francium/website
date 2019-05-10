@@ -56,6 +56,7 @@ the main points.
 - Alternative ways of testing are proposed and the emphasis is not relying only on
   unit test to assert correct software
 
+
 ## Web
 
 #### [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
@@ -98,3 +99,8 @@ the main points.
 #### [Elm Europe 2017 - Evan Czaplicki - The life of a file](https://www.youtube.com/watch?v=XpDsk374LDE)
 
 #### [Elm Europe 2017 - Richard Feldman - Scaling Elm Apps](https://www.youtube.com/watch?v=DoA4Txr4GUs)
+
+
+## Graphics
+
+#### [Principles of Lighting and Rendering with John Carmack at QuakeCon 2013](https://www.youtube.com/watch?v=IyUgHPs86XM)
