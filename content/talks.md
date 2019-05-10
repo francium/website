@@ -11,6 +11,8 @@ the main points.
 
 #### [Teaching Talk: Helping Students Who Procrastinate (Tim Pychyl)](https://www.youtube.com/watch?v=mhFQA998WiA)
 
+#### [How to Land the Space Shuttle... from Space](https://www.youtube.com/watch?v=Jb4prVsXkZU)
+
 
 ## Software
 
