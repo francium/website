@@ -162,10 +162,4 @@ drive-mirroring.service`. We've also piped the output of rsync to
 `/var/log/drive-mirroring.log` so the output of rsync can also be accessed there.
 
 
-## _Copyright_
-
-_This code listed on this page is licensed under the terms of the [MIT
-license](/assets/text/mit-license)._
-
-
 [nixCraft1]: https://www.cyberciti.biz/faq/linux-modify-partition-labels-command-to-change-diskname/

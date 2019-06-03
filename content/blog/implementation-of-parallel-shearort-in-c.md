@@ -384,10 +384,6 @@ But first, we'll just write a regular queue to get the ball rolling.
 ### A Queue
 
 #### But why?
-
-<center><img
-src="https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2F2.bp.blogspot.com%2F-3xtPQ5Mc88c%2FVTiUiYJspSI%2FAAAAAAAAS-c%2FrF-0oHwlb4A%2Fs1600%2Fbut-why.gif&f=1"></img></center>
-
 Actually, before we start writing code, let's talk about why a queue works for us in this
 context. First, let's look at what we're trying to do. We have a single master and a bunch
 of workers, each of which does some work. Master needs to tell each worker what to work on

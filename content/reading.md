@@ -3,14 +3,19 @@ title: Reading
 ---
 
 ### Now
-- Norman, *Design of Everyday Things*
+<!-- - Norman, *Design of Everyday Things* -->
 <!-- - Heller, *Catch-22* -->
 <!-- - Neal Stephenson, *Snow Crash* (audio) -->
 <!-- - Luis Atencio, Functional Programming in JavaScript -->
+- Graeber, *Debt, The First 5000 Years*
+
+### 2019
+- Lovecraft, *Pickman's Model* [[Review](#lovecraft-pickman-s-model)]
+- Lovecraft, *The Color Out Of Space* [[Review](#lovecraft-the-color-out-of-space)]
 
 ### 2018
 - Foer, *Moonwalking with Einstein* [[Review](#foer-moon-walking-with-einstein)]
-- Grahama, *Hackers and Painters* ★
+- Graham, *Hackers and Painters* ★
 - Griffith, *Why Elm* [[Notes](/blog/book-notes-matthew-griffith-why-elm/)]
 - Hallam, *Millionaire Teacher* ★
 - McCarthy, *The Road* ★
@@ -134,3 +139,27 @@ a summary of how he applied the new techniques and the way in which he was able 
 improving his skills over the course of the year.
 
 Currently midway through, but very engaging and insight book so far.
+
+
+### Lovecraft, *Pickman's Model*
+
+2019-06-03
+
+Lovecraft has a rather unique writing style. If I recall, The Call of Cthulhu also
+employed story-within-story elements to tell the story. A very similar approach is taken
+by Lovecraft in Pickman's Model. The story itself is quite interesting and pulls you in.
+Best part of this short story is the memorable ending. Although it's not hard to unravel
+the mystery yourself, the ending is still quite enjoyable.
+
+
+### Lovecraft, *The Color Out Of Space*
+
+2019-06-03
+
+This story is a bit stranger than Pickman's Model. And unlike Pickman's model, Lovecraft
+take some time to paint a more detailed picture of some of the characters and settings.
+The story itself also take some time to naturally pan out, but delivers a good conclusion.
+It's not a happily ever after story, but I don't think Lovecraft is know for those. It's
+also quite interesting to see how much stories like this have been able to influence
+modern movies. You get a sense that there are many elements utilized by Lovecraft that are
+common or at least similar to the ones used in modern sci-fi movies.

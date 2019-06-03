@@ -1,3 +1,10 @@
+sup {
+  vertical-align: super !important;
+}
+sub {
+  vertical-align: sub !important;
+}
+
 .dark {
   color: #333 !important;
 }

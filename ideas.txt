@@ -1,2 +1,3 @@
 Improving macbook pro on linux thermal performance by using mbpfan
 Copying a linux installation to another disk
+Raspberry pi multi external harddrive setup
