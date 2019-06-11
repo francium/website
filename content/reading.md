@@ -7,6 +7,7 @@ title: Reading
 <!-- - Heller, *Catch-22* -->
 <!-- - Neal Stephenson, *Snow Crash* (audio) -->
 <!-- - Luis Atencio, Functional Programming in JavaScript -->
+- Harari, *Sapiens: A Breif History of Humankind*
 - Graeber, *Debt, The First 5000 Years*
 
 ### 2019
