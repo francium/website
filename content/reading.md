@@ -5,12 +5,13 @@ title: Reading
 ### Now
 <!-- - Norman, *Design of Everyday Things* -->
 <!-- - Heller, *Catch-22* -->
-<!-- - Neal Stephenson, *Snow Crash* (audio) -->
 <!-- - Luis Atencio, Functional Programming in JavaScript -->
-- Harari, *Sapiens: A Breif History of Humankind*
 - Graeber, *Debt, The First 5000 Years*
+- Neal Stephenson, *Snow Crash* ★ (audio)
+- Lovecraft, *The Haunter of the Dark* (audio, [really good audiobook by HPPodcraft](https://www.youtube.com/watch?v=gvpPORCIPo4))
 
 ### 2019
+- Harari, *Sapiens: A Breif History of Humankind* [[Review](#harari-sapiens-a-breif-history-of-humankind)]
 - Lovecraft, *Pickman's Model* [[Review](#lovecraft-pickman-s-model)]
 - Lovecraft, *The Color Out Of Space* [[Review](#lovecraft-the-color-out-of-space)]
 
@@ -164,3 +165,13 @@ It's not a happily ever after story, but I don't think Lovecraft is know for tho
 also quite interesting to see how much stories like this have been able to influence
 modern movies. You get a sense that there are many elements utilized by Lovecraft that are
 common or at least similar to the ones used in modern sci-fi movies.
+
+
+### Harari, *Sapiens: A Breif History of Humankind*
+
+Sapiens is a crash course in human history. The book covers the history of humans from
+prehistory to present day. Along the way many concepts, such as Biology, religion, science
+and technology, are considered and the reader get a glimpse at how and why civilization
+turned out the way it did. The book does not spend a lot of time on one particular period
+of time, it's very much a crash course. It's enough to provide a high level overview of
+our path here, but provides enough material to be a very enlightening read.
