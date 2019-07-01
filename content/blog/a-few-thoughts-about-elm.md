@@ -3,7 +3,7 @@ title: "A Few Thoughts About Elm"
 date: 2019-06-03T17:18:53-04:00
 ---
 
-*Note: This is fairly rough right now. I may come back and revised in the future.*
+*Note: This is fairly rough right now. I may come back and revise it in the future.*
 
 This will not be an introduction to Elm. If you do not know what Elm is, have a look at
 the [wikipedia article](https://en.wikipedia.org/wiki/Elm_(programming_language)) about
