@@ -6,14 +6,15 @@ title: Reading
 <!-- - Norman, *Design of Everyday Things* -->
 <!-- - Heller, *Catch-22* -->
 <!-- - Luis Atencio, Functional Programming in JavaScript -->
-- Graeber, *Debt, The First 5000 Years*
-- Neal Stephenson, *Snow Crash* ★ (audio)
-- Lovecraft, *The Haunter of the Dark* (audio, [really good audiobook by HPPodcraft](https://www.youtube.com/watch?v=gvpPORCIPo4))
+<!-- - Graeber, *Debt, The First 5000 Years* -->
+<!-- - Lovecraft, *The Haunter of the Dark* (audio, [really good audiobook by HPPodcraft](https://www.youtube.com/watch?v=gvpPORCIPo4)) -->
+- Stephenson, *The Diamond Age, or A Young Lady's Illustrated Primer* (audio)
 
 ### 2019
 - Harari, *Sapiens: A Breif History of Humankind* [[Review](#harari-sapiens-a-breif-history-of-humankind)]
 - Lovecraft, *Pickman's Model* [[Review](#lovecraft-pickman-s-model)]
 - Lovecraft, *The Color Out Of Space* [[Review](#lovecraft-the-color-out-of-space)]
+- Stephenson, *Snow Crash* ★ (audio)
 
 ### 2018
 - Foer, *Moonwalking with Einstein* [[Review](#foer-moon-walking-with-einstein)]
