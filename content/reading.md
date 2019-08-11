@@ -8,13 +8,15 @@ title: Reading
 <!-- - Luis Atencio, Functional Programming in JavaScript -->
 <!-- - Graeber, *Debt, The First 5000 Years* -->
 <!-- - Lovecraft, *The Haunter of the Dark* (audio, [really good audiobook by HPPodcraft](https://www.youtube.com/watch?v=gvpPORCIPo4)) -->
-- Stephenson, *The Diamond Age, or A Young Lady's Illustrated Primer* (audio)
+- TBD
 
 ### 2019
 - Harari, *Sapiens: A Breif History of Humankind* [[Review](#harari-sapiens-a-breif-history-of-humankind)]
 - Lovecraft, *Pickman's Model* [[Review](#lovecraft-pickman-s-model)]
 - Lovecraft, *The Color Out Of Space* [[Review](#lovecraft-the-color-out-of-space)]
-- Stephenson, *Snow Crash* ★ (audio)
+- S. A. Corey, *Drive (The Expanse)*
+- Stephenson, *Snow Crash* ★ (audio) [[Review](#stephenson-snow-crash)]
+- Stephenson, *The Diamond Age, or A Young Lady's Illustrated Primer* (audio)
 
 ### 2018
 - Foer, *Moonwalking with Einstein* [[Review](#foer-moon-walking-with-einstein)]
@@ -49,7 +51,7 @@ title: Reading
 ### Pre-2016
 - Adams, *The Hitchhiker's Guide to the Galaxy* ★
 - Doyle, *A Study in Scarlet*
-- Martin, *A Son of Ice and Fire (1-5)* ★
+- Martin, *A Song of Ice and Fire (1-5)* ★
 - Mortimer, *Dunster*
 - Orwell, *Nineteen Eighty-Four*
 - Poe, *The Raven*
@@ -176,3 +178,37 @@ and technology, are considered and the reader get a glimpse at how and why civil
 turned out the way it did. The book does not spend a lot of time on one particular period
 of time, it's very much a crash course. It's enough to provide a high level overview of
 our path here, but provides enough material to be a very enlightening read.
+
+### Stephenson, *Snow Crash*
+
+Snow Crash is like a movie in words. I pictured many events in the story as
+scenes taken out of a Hollywood movie -- car chases, explosions, gun fights,
+sword fights, and many other typical action movie scenes. Overall Snow Crash was
+a unique and thrilling experience -- besides some rather dull bits where people
+just stand around talking about ancient history and stuff. Given the book was
+written in the early 90s, it's really remarkable how well it holds up now and
+how accurately some details have come to be in reality. Definitely a book worth
+reading -- many enjoyable characters, Hiro and YT are really well developed
+characters with enjoyable dialog and story lings, and a thrilling overall story
+that keep you reading.
+
+As a side note, a general observation about Stephenson's writings, having read
+Snow Crash and The Diamond Age as of writing this, there is a lot of world
+building that's founded on some good and well thought-out idea about society and
+technology. Both books paint a very vivid picture of an alternative timeline of
+the world since the 20th century. Stephenson also make used to technical jargon
+that sometimes feels obtuse, such as emphasizing binary digits and power of two,
+but other times helps the story feel deeper and well grounded in logic and
+believable ideas.
+
+### Stephenson, *The Diamond Age, or A Young Lady's Illustrated Primer*
+
+After reading Snow Crash, I had high expectations. I was a bit disappointed, but
+maybe that was due to the radically different setting and style of the book.
+It's a standalone story and with not much, if any, connection to Snow Crash. I
+would've be interested in seeing connections to Snow Crash though. The story has
+different parallel character arcs that converge in the end. The story itself was
+fine, although I think it had some underlying connections I didn't fully try to
+understand which maybe the reason I didn't really feel satisfied at the end.
+That being said, the character development was good and decent enough to pull it
+all together. Overall though, not in my favorites.
