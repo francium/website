@@ -8,7 +8,8 @@ title: Reading
 <!-- - Luis Atencio, Functional Programming in JavaScript -->
 <!-- - Graeber, *Debt, The First 5000 Years* -->
 <!-- - Lovecraft, *The Haunter of the Dark* (audio, [really good audiobook by HPPodcraft](https://www.youtube.com/watch?v=gvpPORCIPo4)) -->
-- TBD
+- S. A. Corey, *The Churn (The Expanse)*
+- Hawking, *The Universe in a Nutshell* (audio)
 
 ### 2019
 - Harari, *Sapiens: A Breif History of Humankind* [[Review](#harari-sapiens-a-breif-history-of-humankind)]
