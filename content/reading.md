@@ -8,14 +8,17 @@ title: Reading
 <!-- - Luis Atencio, Functional Programming in JavaScript -->
 <!-- - Graeber, *Debt, The First 5000 Years* -->
 <!-- - Lovecraft, *The Haunter of the Dark* (audio, [really good audiobook by HPPodcraft](https://www.youtube.com/watch?v=gvpPORCIPo4)) -->
-- S. A. Corey, *The Churn (The Expanse)*
-- Hawking, *The Universe in a Nutshell* (audio)
+- Cox, *Why Does E=MC2?* ★ (audio)
+- S. A. Corey, *The Butcher Of Anderson Station (The Expanse)*
+
 
 ### 2019
-- Harari, *Sapiens: A Breif History of Humankind* [[Review](#harari-sapiens-a-breif-history-of-humankind)]
+- Harari, *Sapiens: A Breif History of Humankind* (audio) [[Review](#harari-sapiens-a-breif-history-of-humankind)]
+- Hawking, *The Universe in a Nutshell* ★ (audio)
 - Lovecraft, *Pickman's Model* [[Review](#lovecraft-pickman-s-model)]
 - Lovecraft, *The Color Out Of Space* [[Review](#lovecraft-the-color-out-of-space)]
 - S. A. Corey, *Drive (The Expanse)*
+- S. A. Corey, *The Churn (The Expanse)*
 - Stephenson, *Snow Crash* ★ (audio) [[Review](#stephenson-snow-crash)]
 - Stephenson, *The Diamond Age, or A Young Lady's Illustrated Primer* (audio)
 
@@ -31,7 +34,7 @@ title: Reading
 - deGrasse Tyson, *Astrophysics for People in a Hurry* (audio)
 
 ### 2017
-- Dawkins, *Selfish Gene* (audio)
+- Dawkins, *Selfish Gene* ★ (audio)
 - Doctorow, *I, Robot*
 - Gladwell, *Outliers: The Story of Success* (audio)
 - Kafka, *The Metamorphosis*
