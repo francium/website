@@ -8,19 +8,20 @@ title: Reading
 <!-- - Luis Atencio, Functional Programming in JavaScript -->
 <!-- - Graeber, *Debt, The First 5000 Years* -->
 <!-- - Lovecraft, *The Haunter of the Dark* (audio, [really good audiobook by HPPodcraft](https://www.youtube.com/watch?v=gvpPORCIPo4)) -->
-- Cox, *Why Does E=MC2?* ★ (audio)
+- Krauss, *A Universe from Nothing*
 - S. A. Corey, *The Butcher Of Anderson Station (The Expanse)*
 
 
 ### 2019
+- Cox, *Why Does E=MC2?* ★ (audio) [[Review](#cox-why-does-e-mc2)]
 - Harari, *Sapiens: A Breif History of Humankind* (audio) [[Review](#harari-sapiens-a-breif-history-of-humankind)]
-- Hawking, *The Universe in a Nutshell* ★ (audio)
+- Hawking, *The Universe in a Nutshell* ★ (audio) [[Review](#hawking-the-universe-in-a-nutshell)]
 - Lovecraft, *Pickman's Model* [[Review](#lovecraft-pickman-s-model)]
 - Lovecraft, *The Color Out Of Space* [[Review](#lovecraft-the-color-out-of-space)]
 - S. A. Corey, *Drive (The Expanse)*
 - S. A. Corey, *The Churn (The Expanse)*
 - Stephenson, *Snow Crash* ★ (audio) [[Review](#stephenson-snow-crash)]
-- Stephenson, *The Diamond Age, or A Young Lady's Illustrated Primer* (audio)
+- Stephenson, *The Diamond Age, or A Young Lady's Illustrated Primer* (audio) [[Review](#stephenson-the-diamond-age-or-a-young-lady-s-illustrated-primer)]
 
 ### 2018
 - Foer, *Moonwalking with Einstein* [[Review](#foer-moon-walking-with-einstein)]
@@ -94,7 +95,7 @@ hypothetical future science things, then it's a fantastic read.
 
 2018-02-14
 
-Scalzi universe is in a state of total war. The Colonial Union and Colonial Deference
+Scalzi's universe is in a state of total war. The Colonial Union and Colonial Deference
 Forces represent humanity in Universe and are looking to expand while in competition with
 all other alien race who themselves are doing the same -- except the Consu; the Consu are
 badass. But the story itself focuses on the adventures of an individual, senior, recruit
@@ -176,6 +177,8 @@ common or at least similar to the ones used in modern sci-fi movies.
 
 ### Harari, *Sapiens: A Breif History of Humankind*
 
+2019-06-25
+
 Sapiens is a crash course in human history. The book covers the history of humans from
 prehistory to present day. Along the way many concepts, such as Biology, religion, science
 and technology, are considered and the reader get a glimpse at how and why civilization
@@ -184,6 +187,8 @@ of time, it's very much a crash course. It's enough to provide a high level over
 our path here, but provides enough material to be a very enlightening read.
 
 ### Stephenson, *Snow Crash*
+
+2019-08-11
 
 Snow Crash is like a movie in words. I pictured many events in the story as
 scenes taken out of a Hollywood movie -- car chases, explosions, gun fights,
@@ -207,6 +212,8 @@ believable ideas.
 
 ### Stephenson, *The Diamond Age, or A Young Lady's Illustrated Primer*
 
+2019-08-11
+
 After reading Snow Crash, I had high expectations. I was a bit disappointed, but
 maybe that was due to the radically different setting and style of the book.
 It's a standalone story and with not much, if any, connection to Snow Crash. I
@@ -216,3 +223,22 @@ fine, although I think it had some underlying connections I didn't fully try to
 understand which maybe the reason I didn't really feel satisfied at the end.
 That being said, the character development was good and decent enough to pull it
 all together. Overall though, not in my favorites.
+
+### Cox, *Why Does E=MC2?*
+
+2019-09-13
+
+Brian Cox wonderfully explained groundbreaking physics concepts in an easy to
+understand manner. The book overall is a fantastic journey through space and
+time (quite literally), from the brilliance of Einstein and many other
+physicists to cosmos and beyond. This book is filled with brilliant and
+insightful knowledge; worth not just a read, but also a re-read.
+
+### Hawking, *The Universe in a Nutshell*
+
+2019-09-13
+
+This book, like Brian Cox', *Why Does E=MC2?*, is a brilliant and down to earth
+explanation of astronomical concepts. Enjoyable and educational, it's packed
+with amazing concepts and ideas that will be just as enjoyable on subsequent
+reads.
