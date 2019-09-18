@@ -8,8 +8,9 @@ title: Reading
 <!-- - Luis Atencio, Functional Programming in JavaScript -->
 <!-- - Graeber, *Debt, The First 5000 Years* -->
 <!-- - Lovecraft, *The Haunter of the Dark* (audio, [really good audiobook by HPPodcraft](https://www.youtube.com/watch?v=gvpPORCIPo4)) -->
+<!-- - S. A. Corey, *The Butcher Of Anderson Station (The Expanse)* -->
 - Krauss, *A Universe from Nothing*
-- S. A. Corey, *The Butcher Of Anderson Station (The Expanse)*
+- Mets and Owen, *99 Bottles of OOP - A Practical Guide to Object-Oriented Design*
 
 
 ### 2019
