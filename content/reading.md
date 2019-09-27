@@ -9,16 +9,19 @@ title: Reading
 <!-- - Graeber, *Debt, The First 5000 Years* -->
 <!-- - Lovecraft, *The Haunter of the Dark* (audio, [really good audiobook by HPPodcraft](https://www.youtube.com/watch?v=gvpPORCIPo4)) -->
 <!-- - S. A. Corey, *The Butcher Of Anderson Station (The Expanse)* -->
-- Krauss, *A Universe from Nothing*
-- Mets and Owen, *99 Bottles of OOP - A Practical Guide to Object-Oriented Design*
+- Mets, *Practical Object-Oriented Design in Ruby*
+- Kaku, *Physics of the Impossible*
 
 
 ### 2019
 - Cox, *Why Does E=MC2?* ★ (audio) [[Review](#cox-why-does-e-mc2)]
 - Harari, *Sapiens: A Breif History of Humankind* (audio) [[Review](#harari-sapiens-a-breif-history-of-humankind)]
 - Hawking, *The Universe in a Nutshell* ★ (audio) [[Review](#hawking-the-universe-in-a-nutshell)]
+- Jason Gregory, *Game Engine Architecture* ★ (read most)
+- Krauss, *A Universe from Nothing* ★ (audio) [[Review](#krauss-a-universe-from-nothing)]
 - Lovecraft, *Pickman's Model* [[Review](#lovecraft-pickman-s-model)]
 - Lovecraft, *The Color Out Of Space* [[Review](#lovecraft-the-color-out-of-space)]
+- Mets and Owen, *99 Bottles of OOP - A Practical Guide to Object-Oriented Design* (read 1st ed., waiting for 2nd ed.) ★
 - S. A. Corey, *Drive (The Expanse)*
 - S. A. Corey, *The Churn (The Expanse)*
 - Stephenson, *Snow Crash* ★ (audio) [[Review](#stephenson-snow-crash)]
@@ -225,6 +228,14 @@ understand which maybe the reason I didn't really feel satisfied at the end.
 That being said, the character development was good and decent enough to pull it
 all together. Overall though, not in my favorites.
 
+### Hawking, *The Universe in a Nutshell*
+
+2019-09-13
+
+This book, like Brian Cox's *Why Does E=MC2?*, is a brilliant and down to earth
+explanation of astronomical concepts. Enjoyable and educational, it's packed
+with amazing concepts and ideas that will be just as enjoyable on subsequent
+reads.
 ### Cox, *Why Does E=MC2?*
 
 2019-09-13
@@ -235,11 +246,18 @@ time (quite literally), from the brilliance of Einstein and many other
 physicists to cosmos and beyond. This book is filled with brilliant and
 insightful knowledge; worth not just a read, but also a re-read.
 
-### Hawking, *The Universe in a Nutshell*
+### Krauss, *A Universe from Nothing*
 
-2019-09-13
+2019-09-26
 
-This book, like Brian Cox', *Why Does E=MC2?*, is a brilliant and down to earth
-explanation of astronomical concepts. Enjoyable and educational, it's packed
-with amazing concepts and ideas that will be just as enjoyable on subsequent
-reads.
+A Universe from Nothing reminded me a lot of the *Selfish Gene* by Dawkins. I
+think it is because of the contrasting parallels of the evolution of the
+universe, seemingly emerging from nothing as Krauss explains, and the eagerness
+of life from nothing by inanimate chemical processes.
+
+In combination with Cox's *Why Does E=MC2?* and Hawkin's *The Universe in a
+Nutshell*, this book was a perfect way to end the trilogy, but I'd be really
+interested in continuing with more science books that I hope live up to the bar
+set my these three. Just like the previous two, this book is packed with
+fantastic descriptions of incredible facts and ideas out of this world. Must
+read for anyone interested in science and space.
