@@ -9,11 +9,11 @@ title: Reading
 <!-- - Graeber, *Debt, The First 5000 Years* -->
 <!-- - Lovecraft, *The Haunter of the Dark* (audio, [really good audiobook by HPPodcraft](https://www.youtube.com/watch?v=gvpPORCIPo4)) -->
 <!-- - S. A. Corey, *The Butcher Of Anderson Station (The Expanse)* -->
-- Mets, *Practical Object-Oriented Design in Ruby*
-- Kaku, *Physics of the Impossible*
+<!-- - Mets, *Practical Object-Oriented Design in Ruby* -->
 
 
 ### 2019
+- Stephenson, *Cryptonomicon* ★ (audio)
 - Cox, *Why Does E=MC2?* ★ (audio) [[Review](#cox-why-does-e-mc2)]
 - Harari, *Sapiens: A Breif History of Humankind* (audio) [[Review](#harari-sapiens-a-breif-history-of-humankind)]
 - Hawking, *The Universe in a Nutshell* ★ (audio) [[Review](#hawking-the-universe-in-a-nutshell)]
