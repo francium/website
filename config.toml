@@ -1,30 +1,18 @@
-baseURL = "/"
-languageCode = "en-us"
-theme = "cocoa-hugo-theme"
 title = "francium"
 author = "francium"
-builddrafts         = false
-canonifyurls        = true
-publishdir          = "public"
-pygmentsuseclasses  = true
-pluralizelisttitles = false
 
+baseURL = "/"
+builddrafts = false
+canonifyurls = true
+languageCode = "en-us"
+publishdir = "public"
 
-[permalinks]
-blog  = "blog/:slug/"
+theme = "hugo-theme-minos"
+paginate = 50
 
-
-[[menu.main]]
-name                   = "Blog"
-weight                 = 0
-identifier             = "blog"
-url                    = "/blog/"
-
-[[menu.main]]
-name                   = "Reading"
-weight                 = 0
-identifier             = "reading"
-url                    = "/reading/"
+[params]
+noPostNavigation = true
+customCss = ["css/main.css"]
 
 [[menu.main]]
 name                   = "Projects"
@@ -37,20 +25,3 @@ name                   = "About"
 weight                 = 0
 identifier             = "about"
 url                    = "/about/"
-
-
-[params]
-include_rss            = false                          # include RSS <link> tag in <head> and show RSS icon
-latestpostscount       = 10                            # how many posts to display on the home page
-i18n_flags             = false                         # whether to display small country flags for available translations
-author                 = "francium"
-cachebuster            = true                          # add the current unix timestamp in query string for cache busting css assets
-dateform               = "2006-01-02"
-dateformfull           = "Mon Jan 2 2006"
-description            = ""                            # html meta data
-#email                  = "francium@francium.cc"
-faviconfile            = "img/leaf.ico"
-#github                 = "//github.com/francium"
-lang                   = "en"
-noshowreadtime         = true                         # if true, don't show "<x> minutes read" in posts
-selfintro              = ""                           # appears in the site header when set to a non-empty string

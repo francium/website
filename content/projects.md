@@ -1,5 +1,7 @@
 ---
 title: Projects
+hidden: true
+omitDate: true
 ---
 
 ### [qinterest](//github.com/francium/qinterest)

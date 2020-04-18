@@ -1,5 +1,7 @@
 ---
 title: About
+hidden: true
+omitDate: true
 ---
 
 ## Varun Hooda
