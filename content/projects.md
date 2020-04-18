@@ -3,6 +3,8 @@ title: Projects
 hidden: true
 omitDate: true
 ---
+<!-- hidden: prevent hugo from adding this as a blog article -->
+<!-- omitDate: don't show a date -->
 
 ### [qinterest](//github.com/francium/qinterest)
 Pinterest clone

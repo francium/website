@@ -10,18 +10,29 @@ publishdir = "public"
 theme = "hugo-theme-minos"
 paginate = 50
 
+[markup]
+    [markup.highlight]
+        guessSyntax = false
+        style = "borland"
+
 [params]
-noPostNavigation = true
-customCss = ["css/main.css"]
+    noPostNavigation = true
+    customCss = ["css/main.css"]
 
 [[menu.main]]
-name                   = "Projects"
-weight                 = 0
-identifier             = "projects"
-url                    = "/projects/"
+    name                   = "Projects"
+    weight                 = 0
+    identifier             = "projects"
+    url                    = "/projects/"
 
 [[menu.main]]
-name                   = "About"
-weight                 = 0
-identifier             = "about"
-url                    = "/about/"
+    name                   = "About"
+    weight                 = 0
+    identifier             = "about"
+    url                    = "/about/"
+
+[[menu.main]]
+    name                   = "TIL"
+    weight                 = 0
+    identifier             = "til"
+    url                    = "/til/"

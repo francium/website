@@ -3,6 +3,8 @@ title: About
 hidden: true
 omitDate: true
 ---
+<!-- hidden: prevent hugo from adding this as a blog article -->
+<!-- omitDate: don't show a date -->
 
 ## Varun Hooda
 

@@ -117,7 +117,7 @@ but any other array sorting algorithm will suffice.
 We'll define a header and source file for the bubble sort,
 
 **bubble.h**
-```
+```c
 #include <stddef.h>
 
 #ifndef BUBBLE_H
@@ -129,7 +129,7 @@ void sort(int arr[], size_t size);
 ```
 
 **bubble.c**
-```
+```c
 #include "bubble.h"
 
 void sort(int arr[], size_t size) {
@@ -161,7 +161,7 @@ We will first defined two additional [inline][1] functions in the header and sou
 And we'll also modify the `sort` function enable paramertization.
 
 **bubble.h**
-```
+```c
 ...
 
 int cmp_min(int, int);
@@ -170,7 +170,7 @@ int cmp_max(int, int);
 ```
 
 **bubble.c**
-```
+```c
 ...
 
 int cmp_min(int a, int b) {
@@ -232,7 +232,7 @@ like an expensive thing to do, but there are some important advantages,
 So that means we should define a transpose function now,
 
 **main.c**
-```
+```c
 #include <stddef.h>
 
 void transpose(int arr[], size_t size) {
@@ -259,7 +259,7 @@ One more thing we'll quickly do is create a function to print out the matrix so 
 idea of what's going on at each phase,
 
 **main.c**
-```
+```c
 #include <stdio.h>
 ...
 
@@ -278,7 +278,7 @@ void print_matrix(int arr[], size_t size) {
 Now we'll finish implemnting shearsort using this transpose function.
 
 **main.c**
-```
+```c
 ...
 #include <math.h>
 #include "bubble.h"
@@ -414,7 +414,7 @@ The queue has a simple API, you initialize it, push pointers to things on it and
 oldest pushed pointer from it, as well as destroy it once you're done with it.
 
 **queue.h**
-```
+```c
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -433,7 +433,7 @@ int queue_enqueue(Queue *queue, void *item);
 ```
 
 **queue.c**
-```
+```c
 #include "queue.h"
 
 void queue_init(Queue *queue, int capacity) {
@@ -490,7 +490,7 @@ keep in mind is that since we're using the circular buffer approach we need to w
 head and tail pointers when we reach the end. We do this by doing some modulo arithmetic
 in both functions.
 
-```
+```c
 queue->head = (queue->head + 1) % queue->capacity;
 ...
 queue->tail = (queue->tail + 1) % queue->capacity;
@@ -514,7 +514,7 @@ The first thing we'll do is rename the existing enqueue and dequeue functions to
 multithreaded environment.
 
 **queue.c**
-```
+```c
 ...
 
 static void* _unsafe_queue_dequeue(Queue *queue) {
@@ -553,7 +553,7 @@ variable of type `pthread_mutex_t`, initializing it, and using `pthread_mutex_lo
 [For more information about PThread mutexes see this reference][4].
 
 A simple example of a mutex,
-```
+```c
 pthread_mutex_t mtx;
 pthread_mutex_init(&mtx, NULL);
 pthread_mutex_lock(&mtx);
@@ -579,7 +579,7 @@ remember to unlock the mutex after you're done doing what you needed to do.
 [For more information about PThread condition variables see this reference][5].
 
 A simple example of a condition variable,
-```
+```C
 pthread_mutex_t mtx;
 pthread_mutex_init(&mtx, NULL);
 // ... some other thread locks mtx
@@ -609,7 +609,7 @@ mutex and condition variable.
 First, we need to declare and initialize the mutex and condition variables.
 
 **queue.h**
-```
+```c
 ...
 
 typedef struct {
@@ -622,7 +622,7 @@ typedef struct {
 ```
 
 **queue.c**
-```
+```c
 ...
 
 void queue_init(Queue *queue, int capacity) {
@@ -645,7 +645,7 @@ before. Any existing user of this function will not be able to tell the differen
 the functionality will now be thread safe.
 
 **queue.c**
-```
+```c
 ...
 
 int queue_enqueue(Queue *queue, void *item) {
@@ -668,7 +668,7 @@ Turning our attention to dequeue we see that we don't need to make any changes t
 signture here either.
 
 **queue.c**
-```
+```c
 ...
 
 void* queue_dequeue(Queue *queue) {
@@ -743,7 +743,7 @@ function main
 In the actual implementation we will use a struct as an argument to the `worker` functions
 so we don't have any global variables.
 
-```
+```c
 ...
 
 typedef struct {
@@ -841,7 +841,7 @@ is done.
 
 One thing I want to point is an early mistake I made that left me quite confused until I
 finally figure it out. Notice the `WorkerArgs` struct has two pointers to queues,
-```
+```c
 typedef struct {
     ...
     Queue *inbox;
@@ -869,7 +869,7 @@ memory.
 
 ## Full Source
 **main.c**
-```
+```c
 #include <math.h>
 #include <stddef.h>
 #include <stdio.h>
@@ -982,7 +982,7 @@ void* worker(void *args) {
 ```
 
 **queue.h**
-```
+```c
 #ifndef QUEUE_H
 #define QUEUE_H
 
@@ -1008,7 +1008,7 @@ int queue_enqueue(Queue *queue, void *item);
 ```
 
 **queue.c**
-```
+```c
 #include "queue.h"
 
 void queue_init(Queue *queue, int capacity) {
@@ -1062,7 +1062,7 @@ static int _unsafe_queue_enqueue(Queue *queue, void *item) {
 ```
 
 **bubble.h**
-```
+```c
 #include <stddef.h>
 
 #ifndef BUBBLE_H
@@ -1076,7 +1076,7 @@ void sort(int arr[], size_t size);
 ```
 
 **bubble.c**
-```
+```c
 int cmp_min(int a, int b) {
   return a < b ? 1 : 0;
 }
