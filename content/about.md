@@ -11,12 +11,12 @@ omitDate: true
 A brief summary,
 
 - Canadian software developer
-- Fluently able to read and write various languages, including JavaScript, Python, C,
-  Elm, Java, C++, Bash, SQL
+- Able to read and write various languages with varying levels of fluency,
+  including JavaScript, TypeScript, Python, C/C++, Rust, Elm, Java, Bash, SQL
 - Know my way around a [Lin]u[ni]x CLI and many common development tools
-- Other buzzwords: Agile, Angular 2+, Bash, Dev Ops, Django, Docker, Flask, Functional
-  Programming, Node, Optimization, REST APIs, Refactoring, React, SCRUM, Unit
-  Testing, UI, UX
+- Random buzzwords: Agile, SCRUM, Dev Ops, Docker, Functional Programming,
+  Optimization, REST APIs, Refactoring, Flask, Angular 2+, React,
+  Unit Testing, UI, UX
 - This was typed in Vim
 
 If you’ve made it this far, perhaps you’d be interested in looking at some of [my
