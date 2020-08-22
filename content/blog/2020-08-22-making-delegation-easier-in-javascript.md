@@ -125,7 +125,7 @@ p1 scan:  scanned at Sat Aug 22 2020 13:36:28 GMT-0400 (Eastern Daylight Time)
 p1 print:  true
 ```
 
-## Type checking
+## Type checking and future work
 
 With TypeScript you do get a bit more type safety than JavaScript in this
 context, but it's not bulletproof.
@@ -155,9 +155,9 @@ But I couldn't see a way to making the `to: '_scanner'` type safe since
 we're trying to keep it private and the `Delegators` class would be inherited by
 the class with the private property; Turns into a chicken and egg problem.
 
-So obviously there's a bit of room from improvement here. Currently this is the
-most type safe implementation I've thought of, but perhaps things will improve
-in the future.
+So obviously there's a bit of room for improvement here. Currently this is the
+most type safe implementation I've thought of so far, but perhaps things will
+improve in the future.
 
 ## Delegation of properties?
 
