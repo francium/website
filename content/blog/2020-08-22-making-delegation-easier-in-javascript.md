@@ -147,12 +147,17 @@ specifying the `methods` list using `keyof`,
 ```
 
 This will catch any typos and ensure we only try to delegate to things that
-exist on that interface.
+exist on that interface. But unfortunately, in the current setup, this will only
+check to see we've got all the methods required by the interface and any
+additional methods will not be flagged by the compiler.
 
 But I couldn't see a way to making the `to: '_scanner'` type safe since
 we're trying to keep it private and the `Delegators` class would be inherited by
 the class with the private property; Turns into a chicken and egg problem.
 
+So obviously there's a bit of room from improvement here. Currently this is the
+most type safe implementation I've thought of, but perhaps things will improve
+in the future.
 
 ## Delegation of properties?
 
