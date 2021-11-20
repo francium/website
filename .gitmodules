@@ -2,3 +2,7 @@
 	path = public
 	url = https://github.com/francium/francium.github.io
 	branch = master
+[submodule "themes/hugo-theme-minos"]
+	path = themes/hugo-theme-minos
+	url = https://github.com/francium/hugo-theme-minos
+	branch = master
