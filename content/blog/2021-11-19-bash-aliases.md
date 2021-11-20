@@ -93,20 +93,26 @@ subshell `$(...)`.
 
 ### Enter the fun-pipe (1)
 ```bash
-$ grep "filepath =" data.txt | awk '{ print $3 }' |: vim _
+$ grep "filepath =" data.txt | awk '{ print $3 }' |:: vim _
 ```
 Elegance.
 
 The `_` stands in for the stdout of the precious stage of the pipeline.
 
-Note that `|:` isn't actually a single 'operator'.
-It's in fact the standard Bash pipe, `|`, and our new fun-pipe alias, `:`, just
+Note that `|::` isn't actually a single 'operator'.
+It's in fact the standard Bash pipe, `|`, and our new fun-pipe alias, `::`, just
 without a space between.
 
 We can define the fun-pipe as,
 ```bash
-alias :='xargs -i_ --'
+alias ::='xargs -i_ --'
 ```
+
+Originally I had defined this as just `:`, but I noticed some issues with bash
+completion as `:` is actually an existing Bash builtin operator. I would've
+liked to define it as `>` so `|>` could be realized, similar to F# and Elm, but
+`>` is another bash builtin and Bash complains if you try to define an alias
+with it.
 
 
 ## Notes
