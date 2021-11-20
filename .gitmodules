@@ -1,8 +1,8 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/francium/francium.github.io
+	url = git@github.com:francium/francium.github.io.git
 	branch = master
 [submodule "themes/hugo-theme-minos"]
 	path = themes/hugo-theme-minos
-	url = https://github.com/carsonip/hugo-theme-minos
+	url = git@github.com:francium/hugo-theme-minos.git
 	branch = master
