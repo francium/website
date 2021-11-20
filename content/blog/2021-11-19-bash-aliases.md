@@ -1,8 +1,11 @@
 ---
-title: "Mostly useful or: How I learned stop typing and write a few Bash aliases"
+title: "Mostly useful or: How I learned to stop typing and write a few Bash aliases"
 date: 2021-11-19T12:00:00-04:00
-summary: "Featuring: quitting vim, theming apps, and fun pipes"
+summary: "A very short list of a few interesting Bash aliases. Featuring: quitting vim, theming apps, and fun pipes"
 ---
+
+
+A very short list of a few interesting Bash aliases.
 
 
 ## The vim quitter
@@ -14,8 +17,7 @@ alias :q='exit'
 alias :wq='exit'
 ```
 
-I didn't actually write this one from scratch. I believe I came across it online
-a few years ago.
+I think I came across this online a few years ago.
 
 
 ## The GTK themer
@@ -24,7 +26,7 @@ theme appearance, such as `gitg`. So I find myself opening them in light theme.
 You typically do something like this to override the theme on a per application
 basis,
 ```bash
-GTK_THEME=Adwaita:light gitg &
+$ GTK_THEME=Adwaita:light gitg &
 ```
 
 But that's kinda hard to remember and I typically don't and instead rely on Bash
@@ -38,7 +40,7 @@ alias gtk-light='GTK_THEME=Adwaita:light'
 
 Now,
 ```
-gtk-light gitg &
+$ gtk-light gitg &
 ```
 works as you'd expect and much easier to remember.
 
@@ -76,11 +78,13 @@ import Debug exposing (toString)
 
 sum a b = a + b
 
-double a = a * 2
+triple a = a * 3
 
-main = sum 1 2 |> \a -> a * 3 |> toString |> text
+main = sum 1 2 |> triple |> toString |> text
 ```
-This example is in Elm.  Here `main` outputs `"9"`.
+This example is in Elm.  Here `main` outputs `"9"`. The `|>` are pipe-forward
+infix functions that pass the output of the previous pipeline stage to the next
+function. For example `sum 1 2 |> triple` is equivalent to `triple (sum 1 2)`.
 
 Quite elegant and eliminates the amount of text manipulation we have
 to do. Whereas in the bash example we had to wrap the `grep` and `awk` in a
@@ -89,14 +93,15 @@ subshell `$(...)`.
 
 ### Enter the fun-pipe (1)
 ```bash
-grep "filepath =" data.txt | awk '{ print $3 }' |: vim _
+$ grep "filepath =" data.txt | awk '{ print $3 }' |: vim _
 ```
 Elegance.
 
 The `_` stands in for the stdout of the precious stage of the pipeline.
 
 Note that `|:` isn't actually a single 'operator'.
-It's in fact the standard Bash pipe `|` and our new fun-pipe alias `:` without a space between.
+It's in fact the standard Bash pipe, `|`, and our new fun-pipe alias, `:`, just
+without a space between.
 
 We can define the fun-pipe as,
 ```bash
