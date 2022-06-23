@@ -42,9 +42,10 @@ is fatal.
 
 
 ## Postscript
-I realized now why no one has even called it exception-debugging. This technique
-has a name: assertions. I only realize this now after having written all of the
-above.
+I realized now why no one has ever called it exception-debugging. This technique
+has a name: assertions.
 
 However, using it in the context of figuring out whether your code reaches a
-certain point or not may be a less commonly used technique on its own.
+certain point or not may be a less commonly used technique on its own, but quite
+useful when you don't feel like firing up the debugger and setting up
+breakpoints and all else.
