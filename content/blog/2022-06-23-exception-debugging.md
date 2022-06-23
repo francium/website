@@ -42,7 +42,7 @@ is fatal.
 
 
 ## Postscript
-I realized what no one has even called it exception-debugging. This technique
+I realized now why no one has even called it exception-debugging. This technique
 has a name: assertions. I only realize this now after having written all of the
 above.
 
