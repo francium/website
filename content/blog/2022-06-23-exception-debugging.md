@@ -1,6 +1,6 @@
 ---
 title: "Exception debugging or: How to abuse JavaScript exception and debug tests"
-date: 2022-06-23T12:00:00-04:00
+date: 2022-06-23T00:00:00-04:00
 summary: "Exceptional abuse of exceptions"
 ---
 
@@ -39,3 +39,12 @@ jump up to the nearest exception handler. Considering this second point, this
 technique would also not be useful if you're applying it within some context
 that is within an exception handler because we'd want to make sure the exception
 is fatal.
+
+
+## Postscript
+I realized what no one has even called it exception-debugging. This technique
+has a name: assertions. I only realize this now after having written all of the
+above.
+
+However, using it in the context of figuring out whether your code reaches a
+certain point or not may be a less commonly used technique on its own.
