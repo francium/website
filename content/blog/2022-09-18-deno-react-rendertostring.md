@@ -62,7 +62,7 @@ And secondly the `import_map.json` needs,
 ```json
 {
   "imports": {
-    "react/jsx-runtime": "https://deno.land/x/lume@v1.11.4/deps/react_runtime.ts"
+    "react/jsx-runtime": "https://esm.sh/react@18.2.0/jsx-runtime"
   }
 }
 ```
