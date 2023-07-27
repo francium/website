@@ -20,6 +20,7 @@ paginate = 50
 [params]
     noPostNavigation = true
     customCss = ["css/main.css"]
+    customJs = ["js/main.js"]
 
 [[menu.main]]
     name                   = "Projects"
