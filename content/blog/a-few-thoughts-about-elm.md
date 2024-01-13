@@ -1,6 +1,7 @@
 ---
 title: "A Few Thoughts About Elm"
 date: 2019-06-03T17:18:53-04:00
+draft: true
 ---
 
 *Note: This is fairly rough right now. I may come back and revise it in the future.*

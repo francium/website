@@ -1,6 +1,7 @@
 ---
 title: How to access the McMaster CAS virtual machines on Linux host
 date: 2017-01-10
+draft: true
 ---
 
 <div class="note">
