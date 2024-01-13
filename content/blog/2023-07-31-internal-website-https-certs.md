@@ -1,6 +1,6 @@
 ---
 title: "Getting TLS certificates for internal HTTPs websites"
-date: 2022-09-18T00:00:00-04:00
+date: 2023-07-31T00:00:00-04:00
 summary: "A short guide on acquiring Let's Encrypt TLS certificates for internal websites using the DNS challenge."
 ---
 
