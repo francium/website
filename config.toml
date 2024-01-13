@@ -22,19 +22,7 @@ paginate = 50
     customCss = ["css/main.css"]
 
 [[menu.main]]
-    name                   = "Projects"
-    weight                 = 0
-    identifier             = "projects"
-    url                    = "/projects/"
-
-[[menu.main]]
     name                   = "About"
     weight                 = 0
     identifier             = "about"
     url                    = "/about/"
-
-[[menu.main]]
-    name                   = "TIL"
-    weight                 = 0
-    identifier             = "til"
-    url                    = "/til/"
