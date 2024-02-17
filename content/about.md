@@ -10,7 +10,7 @@ omitDate: true
 
 You can send an email to `<a>@<b>.<c>`
 
-Where `<a>` is `francium`, `<b>` is `francium` and `<c>` is `.cc`
+Where `<a>` is `francium`, `<b>` is `francium` and `<c>` is `cc`
 
 ---
 
